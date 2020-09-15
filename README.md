@@ -16,6 +16,8 @@ These files contain the write-up of my master's thesis as well as the poster pre
 
 A statistical study developed on Python about the Eu152 isotope.
 
+Includes the Python code developed for the analysis using the Jupiter Notebook environment.
+
 Abstract: In this study two ranges from an Eu152 isotope dataset have been investigated aiming to find the Minimum Detectable Activity of the sample by a spectrometer. A study of 3 peaks in the 4200 to 8000 channels range and a study of a single peak in the 1 to 800 channels range and above 77 keV. This report shows the individual analysis of each peak identifying the peak count and background to finally find their respective MDAs, which in average equals 13.37 B
 
 ## X_ray_diffraction
